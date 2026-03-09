@@ -37,7 +37,3 @@
 <p align="left">👋 Hola, soy desarrollador en formación.<br><br>- Estudiante en 42 Málaga Fundación Telefónica.<br>- Estudiante de Desarrollo de Aplicaciones Web (DAW)</p>
 
 ###
-
-<p align="left"></p>
-
-###
